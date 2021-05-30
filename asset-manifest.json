@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/netlibras-app/static/css/main.31a1b3f1.chunk.css",
-    "main.js": "/netlibras-app/static/js/main.fac9440d.chunk.js",
-    "main.js.map": "/netlibras-app/static/js/main.fac9440d.chunk.js.map",
+    "main.js": "/netlibras-app/static/js/main.da197c1e.chunk.js",
+    "main.js.map": "/netlibras-app/static/js/main.da197c1e.chunk.js.map",
     "runtime-main.js": "/netlibras-app/static/js/runtime-main.c1b9008c.js",
     "runtime-main.js.map": "/netlibras-app/static/js/runtime-main.c1b9008c.js.map",
     "static/css/2.658248ec.chunk.css": "/netlibras-app/static/css/2.658248ec.chunk.css",
-    "static/js/2.c0213fe7.chunk.js": "/netlibras-app/static/js/2.c0213fe7.chunk.js",
-    "static/js/2.c0213fe7.chunk.js.map": "/netlibras-app/static/js/2.c0213fe7.chunk.js.map",
+    "static/js/2.d78d9717.chunk.js": "/netlibras-app/static/js/2.d78d9717.chunk.js",
+    "static/js/2.d78d9717.chunk.js.map": "/netlibras-app/static/js/2.d78d9717.chunk.js.map",
     "index.html": "/netlibras-app/index.html",
     "static/css/2.658248ec.chunk.css.map": "/netlibras-app/static/css/2.658248ec.chunk.css.map",
     "static/css/main.31a1b3f1.chunk.css.map": "/netlibras-app/static/css/main.31a1b3f1.chunk.css.map",
-    "static/js/2.c0213fe7.chunk.js.LICENSE.txt": "/netlibras-app/static/js/2.c0213fe7.chunk.js.LICENSE.txt",
+    "static/js/2.d78d9717.chunk.js.LICENSE.txt": "/netlibras-app/static/js/2.d78d9717.chunk.js.LICENSE.txt",
     "static/media/google-play-badge.7f9c8224.png": "/netlibras-app/static/media/google-play-badge.7f9c8224.png",
     "static/media/logo_home.34c32b27.png": "/netlibras-app/static/media/logo_home.34c32b27.png",
     "static/media/logo_navbar.d7369fd1.png": "/netlibras-app/static/media/logo_navbar.d7369fd1.png"
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.c1b9008c.js",
     "static/css/2.658248ec.chunk.css",
-    "static/js/2.c0213fe7.chunk.js",
+    "static/js/2.d78d9717.chunk.js",
     "static/css/main.31a1b3f1.chunk.css",
-    "static/js/main.fac9440d.chunk.js"
+    "static/js/main.da197c1e.chunk.js"
   ]
 }
